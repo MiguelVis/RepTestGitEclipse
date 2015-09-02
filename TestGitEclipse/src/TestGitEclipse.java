@@ -20,7 +20,10 @@ public class TestGitEclipse {
 	public static void main(String[] args) {
 		
 		// Print some text
-		System.out.println("Hey!\n\nThis is just a test for GIT & Eclipse!");
+		System.out.println("Hey!\n\nThis is just a test for GIT & Eclipse!\n\n");
+		
+		// Print EOF message
+		System.out.println("EOF");
 	}
 
 }
